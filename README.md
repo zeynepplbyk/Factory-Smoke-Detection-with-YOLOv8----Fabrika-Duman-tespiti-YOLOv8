@@ -38,7 +38,7 @@ Makine öğrenmesi tabanlı **YOLOv8 segmentasyon modeli** kullanılarak, kamera
 
 3. `main.py` dosyasını çalıştırın:  
    ```bash
-   python main.py
+   python model_entegre.py
    ```
 
 ---
