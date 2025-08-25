@@ -23,20 +23,11 @@ Makine öğrenmesi tabanlı **YOLOv8 segmentasyon modeli** kullanılarak, kamera
 
 ---
 
-## 📂 Proje Yapısı
-```bash
-├── runs/train/merged/weights/best.pt   # Eğitilmiş YOLOv8 model ağırlıkları
-├── main.py                             # Ana kod
-├── alert_sound.wav                     # Alarm sesi
-└── README.md                           # Proje açıklaması
-```
-
----
 
 ## 🚀 Çalıştırma
 1. Repoyu klonlayın:  
    ```bash
-   git clone https://github.com/kullanici_adi/factory-smoke-detection.git
+   git clone https://github.com/zeynepplbyk/Factory-Smoke-Detection-with-YOLOv8----Fabrika-Duman-tespiti-YOLOv8.git
    cd factory-smoke-detection
    ```
 
